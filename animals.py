@@ -6,3 +6,4 @@ print(animals)
 animals_with_a = [animal for animal in animals if 'a' in animal.lower()]
 for animal in animals_with_a:
     print(animal)
+    
